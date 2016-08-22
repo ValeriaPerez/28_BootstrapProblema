@@ -1,0 +1,50 @@
+/* Inserta tu código aqui */
+*{
+	font-family: 'Open Sans'
+}
+/*NAVEGADOR*/
+li{
+	list-style: none;
+}
+.input{
+	b
+}
+/*BACKGROUNDS*/
+.text-white{
+	color: white;
+}
+.gris{
+	background-color: #D8D8D8;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-bottom: 2%;
+}
+.gris2{
+	background-color: #E6E6E6;
+	padding: 5%;
+	margin-bottom: 2%;
+}
+.grisnav{
+	background-color: #E6E6E6;
+}
+.grisico{
+	background-color: #585858;
+}
+.gristext{
+	background-color: #848484;
+}/*MARGIN PADDING*/
+.mg{
+	margin-bottom: 5%;
+}
+.pd{
+	padding: 2%;
+}
+/*LINEA*/
+.borde{
+	border-bottom: solid 1px #D8D8D8;
+}
+footer{
+	border-top: solid 4px black;
+	margin-top: 2%;
+}
+
